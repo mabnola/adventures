@@ -1,0 +1,49 @@
+// Place all the styles related to the Welcome controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+
+h1 {
+	font-family: "Arial Black", Gadget, sans-serif;
+	color: #7E3596;
+	width: 600px;
+	margin: auto;
+	line-height: 60px;
+
+}
+
+h2 {
+	font-family: Arial;
+	color: #4D9635;
+	width: 600px;
+	margin: auto;
+	line-height: 30px;
+
+}
+
+h3 {
+	font-family: arial;
+	line-height: 30px;
+}
+
+h4 {
+	text-align: center;
+	font-family: arial;
+	line-height: 40px;
+}
+
+figcaption {
+	font-size: 9px;
+}
+
+body {
+    background-color: #EBEFF0;
+}
+
+
+p {
+	font-family: Arial;
+	width: 600px;
+	margin: auto;
+	line-height: 20px;
+
+}
